@@ -12,7 +12,7 @@ from telegram.ext import (
 
 # ================= CONFIG =================
 
-BOT_TOKEN = "8709352349:AAGJHLa2Zl4XeOCiwUcY1SMhWWg-hDxAUOg"
+BOT_TOKEN = "8885525564:AAFxEU7JH5bs_y_FuYBGg1oubrKi4cxKCwU"
 
 # Pehle temporary yahan koi image mat dalo
 WELCOME_IMAGE = "AgACAgUAAxkBAANzai6VD1B05CQf-eU-Qlsp8mPAxqoAAr0QaxsGxXBVSKQqSfzSkcQBAAMCAAN4AAM8BA"
